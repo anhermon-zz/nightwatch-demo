@@ -1,0 +1,7 @@
+TODO:
+-Load page objects recursivly
+-Add config facade - V
+-Add logger facade
+-Load username and password via configuration file - V
+-Download & Run selenium server automatically
+
