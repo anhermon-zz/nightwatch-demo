@@ -1,6 +1,7 @@
 'use strict';
 var allure = require("nightwatch-allure-adapter");
+var difido = require("./lib/difido-binder.js");
 
 module.exports = {
-    reporter: allure.write
+    reporter: difido.write
 };
